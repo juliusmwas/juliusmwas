@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julius Mwangi.
-- 👀 I’m interested in web development, software development, and  building scalable applications.
+- 👀 I’m interested in web development, software development.
  -🌱 I’m currently learning full-stack web development focusing on HTML, CSS, JavaScript, and Python.
  --💞️ I’m looking to collaborate on open-source web development projects, software tools, and coding challenges.
 - 📫 How to reach me juliusmwass100@gmail.com.
