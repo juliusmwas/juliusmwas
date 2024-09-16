@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Julius Mwangi.
-- 👀 I’m interested in web development, software development.
+  Hi👋
+
+ - I’m Julius Mwangi.
+ - 👀 I’m interested in web development, software development.
  -🌱 I’m currently learning full-stack web development focusing on HTML, CSS, JavaScript, and Python.
- --💞️ I’m looking to collaborate on open-source web development projects, software tools, and coding challenges.
-- 📫 How to reach me juliusmwass100@gmail.com.
-- 😄 Pronouns: He/Him.
--⚡ Fun fact: I enjoy debugging more than coding sometimes!
+ -💞️ I’m looking to collaborate on open-source web development projects, software tools, and coding challenges.
+ - 📫 How to reach me juliusmwass100@gmail.com.
+ - 😄 Pronouns: He/Him.
+ -⚡ Fun fact: I enjoy debugging more than coding sometimes!
 
 <!---
 juliusmwas/juliusmwas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
