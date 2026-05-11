@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Julius 👋 
 
 > I believe good engineering speaks for itself. I build things that work, scale, and keep working.
 
@@ -23,19 +23,6 @@
 ### 💻 Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,prisma,postgres,docker,figma,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=transparent&hide_border=true" alt="Your Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=flat&no-bg=true&no-frame=true&column=4" alt="Trophies" />
 </p>
 
 ---
