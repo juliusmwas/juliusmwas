@@ -1,85 +1,57 @@
 # Julius Mwangi
 
-> Full-stack developer building scalable SaaS systems, authentication infrastructure, and business automation tools.
+> Full-stack developer building scalable SaaS systems, authentication infrastructure, and business software.
 
 ---
 
-## 🧠 Engineering Focus
+## 🧠 What I Build
 
-I design and build production-ready web systems with a strong focus on scalability, clean architecture, and real-world usability.
-
-My work spans:
-- Multi-tenant SaaS platforms
+- SaaS platforms (multi-tenant, scalable systems)
 - Authentication & authorization systems
-- Business management software
+- Business management tools
 - Modular backend architectures
 
 ---
 
-## 🏗️ Core Stack
+## 🏗️ Tech Stack
 
-**Frontend**
-- React.js, Next.js
-- Tailwind CSS
-- UI/UX design (Figma)
-
-**Backend**
-- Node.js, Express
-- Prisma ORM
-- PostgreSQL
-
-**Infrastructure**
-- Docker
-- CI/CD pipelines
-- Cloud deployment workflows
-
-**Workflow Tools**
-- Git / GitHub
-- VS Code
-- Jira
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express, Prisma  
+**Database:** PostgreSQL  
+**Infra:** Docker, CI/CD  
+**Tools:** Git, GitHub, VS Code, Jira, Figma  
 
 ---
 
-## 🚀 Featured System
+## 🚀 Featured Project
 
-### RetailCore POS — Multi-Branch Retail Management System
+### RetailCore POS
+Multi-branch retail management system for inventory and sales operations.
 
-A production-style SaaS platform for retail operations and inventory management.
-
-**Key capabilities:**
-- Multi-branch inventory synchronization
-- Real-time product and sales tracking
+**Key features:**
+- Multi-branch inventory tracking
+- Real-time sales processing
 - Role-based access control
-- Barcode-driven workflow system
-
-**Engineering focus:**
-Designed with modular architecture principles to support scalability, extensibility, and clean separation of business logic.
+- Barcode workflow system
 
 ---
 
-## 🧩 Architecture Philosophy
+## 🧩 Engineering Mindset
 
-- Build systems, not pages
-- Prefer modular services over monolith logic
-- Design for scale before optimization
-- Treat authentication and data flow as core infrastructure
+- Build systems, not pages  
+- Design for scale from the start  
+- Prefer modular architecture over monolith logic  
+- Treat auth and data flow as core infrastructure  
 
 ---
 
-## 🌐 Tech Stack Overview
+## 🌐 Portfolio
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgres,docker,figma,git,github" />
-</p>
+👉 View my portfolio: **[https://julius-webdev.vercel.app/](https://julius-webdev.vercel.app/)**
 
 ---
 
 ## 📫 Connect
 
-- LinkedIn: [linkedin.com/in/dev-julius-mwangi](https://www.linkedin.com/in/dev-julius-mwangi/)
+- LinkedIn: https://www.linkedin.com/in/dev-julius-mwangi/
 
----
-
-## ✍️ Dev Insight
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
