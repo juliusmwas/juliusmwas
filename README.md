@@ -1,39 +1,85 @@
-# Hi there, I'm Julius 👋 
+# Julius Mwangi
 
-> I believe good engineering speaks for itself. I build things that work, scale, and keep working.
-
-### 🧠 What I Bring:
-**Expert in building privacy-first, enterprise-grade SaaS solutions with a focus on modern UI/UX.**
-
-* **Frontend:** React.js, Next.js, Tailwind CSS, Modern UI/UX (Figma)
-* **Backend:** Node.js, Express, Prisma, PostgreSQL
-* **Infrastructure:** Docker, CI/CD, Server Deployment
-* **Tools:** Git, GitHub, VS Code, Jira
+> Full-stack developer building scalable SaaS systems, authentication infrastructure, and business automation tools.
 
 ---
 
-### 🚀 Featured Project: RetailCore POS
-**A web-based, multi-branch retail management system.**
-* **Privacy-First:** Engineered without customer data collection by design.
-* **Scalable:** Supporting multi-branch inventory tracking and real-time barcode scanning.
-* **Modern UI:** Built with a "Clean Enterprise SaaS" aesthetic—ample whitespace and intuitive workflows.
+## 🧠 Engineering Focus
+
+I design and build production-ready web systems with a strong focus on scalability, clean architecture, and real-world usability.
+
+My work spans:
+- Multi-tenant SaaS platforms
+- Authentication & authorization systems
+- Business management software
+- Modular backend architectures
 
 ---
 
-### 💻 Tech Stack:
+## 🏗️ Core Stack
+
+**Frontend**
+- React.js, Next.js
+- Tailwind CSS
+- UI/UX design (Figma)
+
+**Backend**
+- Node.js, Express
+- Prisma ORM
+- PostgreSQL
+
+**Infrastructure**
+- Docker
+- CI/CD pipelines
+- Cloud deployment workflows
+
+**Workflow Tools**
+- Git / GitHub
+- VS Code
+- Jira
+
+---
+
+## 🚀 Featured System
+
+### RetailCore POS — Multi-Branch Retail Management System
+
+A production-style SaaS platform for retail operations and inventory management.
+
+**Key capabilities:**
+- Multi-branch inventory synchronization
+- Real-time product and sales tracking
+- Role-based access control
+- Barcode-driven workflow system
+
+**Engineering focus:**
+Designed with modular architecture principles to support scalability, extensibility, and clean separation of business logic.
+
+---
+
+## 🧩 Architecture Philosophy
+
+- Build systems, not pages
+- Prefer modular services over monolith logic
+- Design for scale before optimization
+- Treat authentication and data flow as core infrastructure
+
+---
+
+## 🌐 Tech Stack Overview
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,prisma,postgres,docker,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,postgres,docker,figma,git,github" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/dev-julius-mwangi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+## 📫 Connect
 
-</p>
+- LinkedIn: [linkedin.com/in/dev-julius-mwangi](https://www.linkedin.com/in/dev-julius-mwangi/)
 
 ---
 
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+## ✍️ Dev Insight
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
